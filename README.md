@@ -8,7 +8,7 @@ Built as a response to the **opaque and unmodifiable USpeak system**, this tool 
 
 ## 🔍 Why this exists
 
-At ISB, students are asked to upload videos on the USpeak platform for scoring. Unfortunately, the system is closed, opaque, and lacks real-time feedback—making it hard for students to iterate and improve. This tool provides a **transparent, replicable, and research-driven** alternative.
+At ISB (Indian School of Business, https://www.isb.edu/en.html), students are asked to upload videos on the USpeak platform for scoring. Unfortunately, the system is closed, opaque, and lacks real-time feedback—making it hard for students to iterate and improve. This tool provides a **transparent, replicable, and research-driven** alternative.
 
 By making this open-source, we aim to:
 
