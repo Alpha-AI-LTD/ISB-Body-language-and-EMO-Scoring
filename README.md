@@ -22,8 +22,7 @@ By making this open-source, we aim to:
 
 Click below to **run the tool directly on Google Colab**. You don't need to install anything locally.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Alpha-AI-LTD/ISB-Body-language-and-EMO-Scoring/blob/main/Bodylanguage_EMO_Detection_Scoring_V3.ipynb)
-
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Alpha-AI-LTD/ISB-Body-language-and-EMO-Scoring/blob/main/Bodylanguage_EMO_Detection_Scoring_With_Flags.ipynb)
 
 ---
 
@@ -47,10 +46,11 @@ After uploading a video, the tool:
 4. **Generates an AI-based feedback report** simulating uSpeek's criteria:
    - Each section is scored out of 5
    - Final score includes actionable recommendations
+   - Final score is also avaiable in ranges
 
 Caution:
 - The results may not be 100% accurate. We have tried to replicate how uSpeek works. Seemingly uSpeek lacks at a lot of places which this tool covers but our object is to mimic uSpeek results as close as possible.
-- There can be an error margin for positive scores of +/- 0.3 (For now). In case you are consistenly facing issues with the scoring that is bad score are getting worse or something on these lines, simply connect with us on Linkedin (https://www.linkedin.com/company/alphaaico/) or send us a mail with the proofs, video and some ways in which we can maybe fix this further.
+- There can be an error margin for positive scores of +/- 0.2 (For now). In case you are consistenly facing issues with the scoring that is bad score are getting worse or something on these lines, simply connect with us on Linkedin (https://www.linkedin.com/company/alphaaico/) or send us a mail with the proofs, video and some ways in which we can maybe fix this further.
 - Again, the tool is an approximation similar to uSpeek. Please do not expect similar results but it will be somewhat near. The good scores you get here will ensure you get better scores on uSpeek.
 ---
 
