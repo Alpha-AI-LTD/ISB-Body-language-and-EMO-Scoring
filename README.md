@@ -48,6 +48,9 @@ After uploading a video, the tool:
    - Each section is scored out of 5
    - Final score includes actionable recommendations
 
+Caution:
+- The results may not be 100% accurate. We have tried to replicate how USpeak works. Seemingly USpeak lacks at a lot of places which this tool covers but our object is to mimic USpeak results as close as possible.
+- There can be an error margin of +/- 0.3 (For now). In case you are consistenly facing issues with the scoring, simply connect with us on Linkedin (https://www.linkedin.com/company/alphaaico/) or send us a mail with the proofs, video and some ways in which we can maybe fix this further. 
 ---
 
 ## 📦 Requirements
