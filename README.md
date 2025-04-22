@@ -22,7 +22,8 @@ By making this open-source, we aim to:
 
 Click below to **run the tool directly on Google Colab**. You don't need to install anything locally.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/ISB-Body-language-and-EMO-Scoring/blob/main/colab.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Alpha-AI-LTD/ISB-Body-language-and-EMO-Scoring/blob/main/Bodylanguage_EMO_Detection_Scoring_V3.ipynb)
+
 
 ---
 
