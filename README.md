@@ -2,13 +2,13 @@
 
 An open-source evaluation tool for ISB students to self-assess their public speaking videos based on transparent and explainable metrics—body language, facial expression, voice modulation, and content quality.
 
-Built as a response to the **opaque and unmodifiable USpeak system**, this tool lets students **test, understand, and improve** their performance before final submissions.
+Built as a response to the **opaque and unmodifiable uSpeek system**, this tool lets students **test, understand, and improve** their performance before final submissions.
  
 ---
 
 ## 🔍 Why this exists
 
-At ISB (Indian School of Business, https://www.isb.edu/en.html), students are asked to upload videos on the USpeak platform for scoring. Unfortunately, the system is closed, opaque, and lacks real-time feedback—making it hard for students to iterate and improve. This tool provides a **transparent, replicable, and research-driven** alternative.
+At ISB (Indian School of Business, https://www.isb.edu/en.html), students are asked to upload videos on the uSpeek platform for scoring. Unfortunately, the system is closed, opaque, and lacks real-time feedback—making it hard for students to iterate and improve. This tool provides a **transparent, replicable, and research-driven** alternative.
 
 By making this open-source, we aim to:
 
@@ -44,14 +44,14 @@ After uploading a video, the tool:
    - Evaluates filler/pet words
    - Scores content clarity, relevance, and impact
 
-4. **Generates an AI-based feedback report** simulating USpeak's criteria:
+4. **Generates an AI-based feedback report** simulating uSpeek's criteria:
    - Each section is scored out of 5
    - Final score includes actionable recommendations
 
 Caution:
-- The results may not be 100% accurate. We have tried to replicate how USpeak works. Seemingly USpeak lacks at a lot of places which this tool covers but our object is to mimic USpeak results as close as possible.
+- The results may not be 100% accurate. We have tried to replicate how uSpeek works. Seemingly uSpeek lacks at a lot of places which this tool covers but our object is to mimic uSpeek results as close as possible.
 - There can be an error margin for positive scores of +/- 0.3 (For now). In case you are consistenly facing issues with the scoring that is bad score are getting worse or something on these lines, simply connect with us on Linkedin (https://www.linkedin.com/company/alphaaico/) or send us a mail with the proofs, video and some ways in which we can maybe fix this further.
-- Again, the tool is an approximation similar to USpeak. Please do not expect similar results but it will be somewhat near. The good scores you get here will ensure you get better scores on USpeak.
+- Again, the tool is an approximation similar to uSpeek. Please do not expect similar results but it will be somewhat near. The good scores you get here will ensure you get better scores on uSpeek.
 ---
 
 ## 📦 Requirements
