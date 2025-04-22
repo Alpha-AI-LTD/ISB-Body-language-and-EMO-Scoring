@@ -50,7 +50,8 @@ After uploading a video, the tool:
 
 Caution:
 - The results may not be 100% accurate. We have tried to replicate how USpeak works. Seemingly USpeak lacks at a lot of places which this tool covers but our object is to mimic USpeak results as close as possible.
-- There can be an error margin of +/- 0.3 (For now). In case you are consistenly facing issues with the scoring, simply connect with us on Linkedin (https://www.linkedin.com/company/alphaaico/) or send us a mail with the proofs, video and some ways in which we can maybe fix this further. 
+- There can be an error margin for positive scores of +/- 0.3 (For now). In case you are consistenly facing issues with the scoring that is bad score are getting worse or something on these lines, simply connect with us on Linkedin (https://www.linkedin.com/company/alphaaico/) or send us a mail with the proofs, video and some ways in which we can maybe fix this further.
+- Again, the tool is an approximation similar to USpeak. Please do not expect similar results but it will be somewhat near. The good scores you get here will ensure you get better scores on USpeak.
 ---
 
 ## 📦 Requirements
