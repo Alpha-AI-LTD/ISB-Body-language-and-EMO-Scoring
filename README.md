@@ -22,7 +22,11 @@ By making this open-source, we aim to:
 
 Click below to **run the tool directly on Google Colab**. You don't need to install anything locally.
 
+Lenient Version - Might try to score you a little more than expected. Takes weighted averages instead of average scores across section.
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Alpha-AI-LTD/ISB-Body-language-and-EMO-Scoring/blob/main/Bodylanguage_EMO_Detection_Scoring_With_Flags_v2.ipynb)
+
+Scrict Version - Might try to correct you more.
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Alpha-AI-LTD/ISB-Body-language-and-EMO-Scoring/blob/main/Bodylanguage_EMO_Detection_Scoring_With_Flags.ipynb)
 
 ---
 
