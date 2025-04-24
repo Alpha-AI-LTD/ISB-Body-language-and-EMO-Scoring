@@ -27,7 +27,7 @@ Lenient Version - Might try to score you a little more than expected. Takes weig
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Alpha-AI-LTD/ISB-Body-language-and-EMO-Scoring/blob/main/Bodylanguage_EMO_Detection_Scoring_With_Flags_v2.ipynb)
 
 
-Scrict Version - Might try to correct you more.
+Strict Version - Might try to correct you more than expected. You may score more than the range given here.
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Alpha-AI-LTD/ISB-Body-language-and-EMO-Scoring/blob/main/Bodylanguage_EMO_Detection_Scoring_With_Flags.ipynb)
 
